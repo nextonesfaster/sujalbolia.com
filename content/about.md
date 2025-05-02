@@ -7,13 +7,13 @@ cmd = "cat"
 cmd_arg = "about.md"
 +++
 
-Hi, I'm Sujal—a passionate programmer and recent graduate with a Bachelor's degree in Computer Science from the University of British Columbia, Vancouver.
+Hi, I'm Sujal Bolia—a recent graduate with a Bachelor's degree in Computer Science from the University of British Columbia, Vancouver.
 
-I'm currently working as a **Machine Learning Engineer** at IIT Bombay, where I work on training specialized models for object detection and image segmentation. I've had the privilege of interning twice at Microsoft, where I worked under the guidance of Dr. Manoj Chinnakotla during the summers of 2021 and 2022. These virtual internships were invaluable, allowing me to apply my academic knowledge to real-world projects, adhere to industry standards, and explore new frameworks.
+I'm an incoming Software Development Engineer at Amazon, where I’ll be joining the AWS organization. Previously, I worked as a Machine Learning Engineer at IIT Bombay, contributing to cutting-edge research in re-identification models and developing a robust, universal framework for ML model deployment and testing. I've also had the opportunity to intern at Microsoft in the summers of 2021 and 2022, gaining hands-on experience across large-scale software systems and product development.
 
-I'm mostly interested in machine learning problems such as natural language processing and image processing, but I also enjoy exploring algorithms and systems programming. I strongly believe open-source software is critical for software development and try my best to contribute to the open-source community by using permissive licenses or contributing to other projects.
+I'm deeply interested in machine learning, especially natural language processing, as well as in exploring algorithmic problems, including NP-complete and optimization challenges. I strongly believe open-source software is critical for software development and try my best to contribute to the open-source community by using permissive licenses or contributing to other projects.
 
-Outside of computer science, you can find me getting psyched by sci-fi books and tv shows and sports—cricket, football, badminton, and pool. I also love going out on a good hike and jamming out to music! My favourite genres to listen to are hip-hop, r&b, indie, and pop.
+Outside of work, you can find me getting psyched by sci-fi books and tv shows and sports—cricket, football, badminton, and tennis. I also love music, some of my favourite genres include hip-hop, r&b, and indie pop.
 
 I often go by the pseudonym "nextonesfaster" online.
 
