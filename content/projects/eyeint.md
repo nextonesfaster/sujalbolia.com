@@ -1,6 +1,6 @@
 +++
 title = "eyeint"
-description = "A command line app to inspect arbitrary sized integers without various settings."
+description = "A command line app to inspect arbitrary sized integers with various settings."
 weight = 6
 
 [extra]
@@ -10,7 +10,7 @@ toc = false
 project_home = "https://github.com/nextonesfaster/eyeint"
 +++
 
-eyeint (`ii`) is a command line app to inspect arbitrary sized integers without various settings.
+eyeint (`ii`) is a command line app to inspect arbitrary sized integers with various settings.
 
 `eyeint` has the following features:
 
