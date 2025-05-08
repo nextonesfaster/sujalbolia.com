@@ -16,10 +16,11 @@ This page outlines my preferred development environment configuration.
 
 - **Dotfiles Repository**: [nextonesfaster/dotfiles](https://github.com/nextonesfaster/dotfiles)
 - **Editors**: Visual Studio Code, IntelliJ IDEA, Neovim
-- **Theme**: [Rosé Pine](https://marketplace.visualstudio.com/items?itemName=mvllow.rose-pine)
+- **Theme**: [Rosé Pine](https://github.com/rose-pine)
 - **Editor Font**: [Ligalex Mono](https://github.com/ToxicFrog/Ligaturizer/releases)
   - Weight: *Text*
   - Size: *13.5 pt*
+- **Terminal**: iTerm2
 - **Terminal Font**: [BlexMono Nerd Font](https://www.nerdfonts.com/font-downloads)
   - Size: *14 pt*
 
