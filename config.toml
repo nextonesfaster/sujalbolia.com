@@ -19,8 +19,9 @@ home_title = "home"
 
 menu = [
     { name = "projects", url = "/projects", weight = 1 },
-    { name = "about.md", url = "/about", weight = 2 },
-    { name = "resume.pdf", url = "/resume.pdf", weight = 3 },
+    { name = "posts", url = "/posts", weight = 2 },
+    { name = "about.md", url = "/about", weight = 3 },
+    { name = "resume.pdf", url = "/resume.pdf", weight = 4 },
 ]
 
 socials = [

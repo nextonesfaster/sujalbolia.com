@@ -5,5 +5,5 @@ sort_by = "date"
 
 [extra]
 cmd = "ls -l"
-cmd_arg = "."
+cmd_arg = "posts"
 +++
