@@ -17,12 +17,9 @@ This page outlines my preferred development environment configuration.
 - **Dotfiles Repository**: [nextonesfaster/dotfiles](https://github.com/nextonesfaster/dotfiles)
 - **Editors**: Visual Studio Code, IntelliJ IDEA, Neovim
 - **Theme**: [Rosé Pine](https://github.com/rose-pine)
-- **Editor Font**: [Ligalex Mono](https://github.com/ToxicFrog/Ligaturizer/releases)
-  - Weight: *Text*
-  - Size: *13.5 pt*
+- **Editor Font**: [Ligalex Mono](https://github.com/ToxicFrog/Ligaturizer/releases) (*Text*, *13.5 pt*)
 - **Terminal**: iTerm2
-- **Terminal Font**: [BlexMono Nerd Font](https://www.nerdfonts.com/font-downloads)
-  - Size: *14 pt*
+- **Terminal Font**: [BlexMono Nerd Font](https://www.nerdfonts.com/font-downloads) (*Regular*, *14 pt*)
 
 You can view my full [VSCode `settings.json` configuration on GitHub Gist](https://gist.github.com/nextonesfaster/b6f86b9e48daf76a99bf208015aa3fd1).
 
