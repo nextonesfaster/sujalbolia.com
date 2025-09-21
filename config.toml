@@ -1,5 +1,5 @@
-base_url = "https://www.sujalb.com/"
-title = "sujalb"
+base_url = "https://www.sujalbolia.com/"
+title = "sujalbolia"
 build_search_index = true
 generate_feeds = true
 compile_sass = true
@@ -14,7 +14,7 @@ toc = true
 use_cdn = false
 favicon = "/icon/favicon.png"
 theme = "dark"
-home_path = "/home/sujalb"
+home_path = "/home/sujalbolia"
 home_title = "home"
 
 menu = [

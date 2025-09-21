@@ -1,4 +1,4 @@
-# sujalb.com
+# sujalbolia.com
 
 Welcome to my personal website, crafted with [Zola](https://www.getzola.org/) and based on the [apollo](https://www.getzola.org/themes/apollo/) theme.
 
