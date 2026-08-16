@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>sujalbolia</title>
+    <link rel="self" type="application/atom+xml" href="https://www.sujalbolia.com/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://www.sujalbolia.com/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-05-07T00:00:00+00:00</updated>
+    <id>https://www.sujalbolia.com/atom.xml</id>
+    <entry xml:lang="en">
+        <title>setup</title>
+        <published>2025-05-07T00:00:00+00:00</published>
+        <updated>2025-05-07T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://www.sujalbolia.com/posts/setup/"/>
+        <id>https://www.sujalbolia.com/posts/setup/</id>
+        
+        <content type="html" xml:base="https://www.sujalbolia.com/posts/setup/">&lt;p&gt;This page outlines my preferred development environment configuration.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;core-setup&quot;&gt;Core Setup&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dotfiles Repository&lt;&#x2F;strong&gt;: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nextonesfaster&#x2F;dotfiles&quot;&gt;nextonesfaster&#x2F;dotfiles&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Editors&lt;&#x2F;strong&gt;: Visual Studio Code, IntelliJ IDEA, Neovim&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Theme&lt;&#x2F;strong&gt;: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rose-pine&quot;&gt;Rosé Pine&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Editor Font&lt;&#x2F;strong&gt;: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ToxicFrog&#x2F;Ligaturizer&#x2F;releases&quot;&gt;Ligalex Mono&lt;&#x2F;a&gt; (&lt;em&gt;Text&lt;&#x2F;em&gt;, &lt;em&gt;13.5 pt&lt;&#x2F;em&gt;)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Terminal&lt;&#x2F;strong&gt;: iTerm2&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Terminal Font&lt;&#x2F;strong&gt;: &lt;a href=&quot;https:&#x2F;&#x2F;www.nerdfonts.com&#x2F;font-downloads&quot;&gt;BlexMono Nerd Font&lt;&#x2F;a&gt; (&lt;em&gt;Regular&lt;&#x2F;em&gt;, &lt;em&gt;14 pt&lt;&#x2F;em&gt;)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;You can view my full &lt;a href=&quot;https:&#x2F;&#x2F;gist.github.com&#x2F;nextonesfaster&#x2F;b6f86b9e48daf76a99bf208015aa3fd1&quot;&gt;VSCode &lt;code&gt;settings.json&lt;&#x2F;code&gt; configuration on GitHub Gist&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h3 id=&quot;shell-cli-tools&quot;&gt;Shell &amp;amp; CLI Tools&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;ohmyz.sh&#x2F;&quot;&gt;Oh My Zsh&lt;&#x2F;a&gt; — Framework for managing Zsh configuration&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;starship.rs&quot;&gt;Starship&lt;&#x2F;a&gt; — Cross-shell minimal, blazing-fast prompt&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;brew.sh&quot;&gt;homebrew&lt;&#x2F;a&gt; — Package manager for macOS&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BurntSushi&#x2F;ripgrep&quot;&gt;ripgrep&lt;&#x2F;a&gt; — Fast recursive search&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nextonesfaster&#x2F;opentag&quot;&gt;opentag&lt;&#x2F;a&gt; — Tag-based file and link manager&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;sharkdp&#x2F;bat&quot;&gt;bat&lt;&#x2F;a&gt; — &lt;code&gt;cat&lt;&#x2F;code&gt; with syntax highlighting&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ajeetdsouza&#x2F;zoxide&quot;&gt;zoxide&lt;&#x2F;a&gt; — Smarter directory jumping&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lsd-rs&#x2F;lsd&quot;&gt;lsd&lt;&#x2F;a&gt; — A modern &lt;code&gt;ls&lt;&#x2F;code&gt; with icons and colors&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;sharkdp&#x2F;fd&quot;&gt;fd&lt;&#x2F;a&gt; — A simple, fast alternative to &lt;code&gt;find&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;skim-rs&#x2F;skim&quot;&gt;skim&lt;&#x2F;a&gt; — Fast fuzzy finder (&lt;code&gt;fzf&lt;&#x2F;code&gt;-like)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;qalculate.github.io&#x2F;&quot;&gt;qalc&lt;&#x2F;a&gt; — Versatile command-line calculator&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;dandavison&#x2F;delta&quot;&gt;delta&lt;&#x2F;a&gt; — Git diff formatter&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>
