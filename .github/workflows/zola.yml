@@ -1,18 +1,33 @@
 name: Zola on GitHub Pages
 
-on: 
- push:
-  branches:
-   - main
+on:
+  push:
+    branches:
+      - main
+  repository_dispatch:
+    types:
+      - resume-updated
+  workflow_dispatch:
 
 jobs:
   build:
     name: Publish site
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout main
-      uses: actions/checkout@v4.0.0
-    - name: Build and deploy
-      uses: shalzz/zola-deploy-action@v0.20.0
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout website
+        uses: actions/checkout@v4
+
+      - name: Checkout resume
+        uses: actions/checkout@v4
+        with:
+          repository: nextonesfaster/resume
+          token: ${{ secrets.RESUME_REPO_TOKEN || github.token }}
+          path: resume-source
+
+      - name: Install latest resume
+        run: cp resume-source/main.pdf static/resume.pdf
+
+      - name: Build and deploy
+        uses: shalzz/zola-deploy-action@v0.20.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

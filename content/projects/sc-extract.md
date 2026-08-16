@@ -8,12 +8,13 @@ cmd = "cat"
 cmd_arg = "sc-extract.md"
 toc = false
 author = "nextonesfaster"
+project_home = "https://github.com/nextonesfaster/sc-extract"
 +++
 
-`sc_extract` is a very fast tool to extract graphics and decode CSVs from compressed game assets.
+`sc_extract` is a high-performance reusable library and tool for decoding compressed binary asset formats and exporting image and structured-data files.
 
 Some features:
 
-- processes `_tex.sc`, `.sc`, and `.csv` files
+- processes `_tex.sc`, `.sc`, and `.csv` files found in Supercell game assets
 - supports LZMA, LZHAM, and zstd compression formats
-- at least 10x times faster than similar tools
+- 10x faster than similar tools
