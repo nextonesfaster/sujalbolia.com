@@ -9,11 +9,11 @@ If you'd like to set up your website similarly, follow these steps to run it loc
 1. [Download Zola.](https://www.getzola.org/documentation/getting-started/installation/)
 2. Clone this repository:
     ```sh
-    git clone git@github.com:nextonesfaster/sujalb.com.git
+    git clone git@github.com:nextonesfaster/sujalbolia.com.git
     ```
 3. Navigate to the repository's directory:
     ```sh
-    cd sujalb.com
+    cd sujalbolia.com
     ```
 4. Serve the site locally:
     ```sh
